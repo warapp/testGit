@@ -14,4 +14,5 @@ def area2(w, c):
 
 w = float(input("w :"))
 c = float(input("c :"))
+
 print(area2(w, c))
